@@ -1,0 +1,37 @@
+#chart {
+    max-width: 650px;
+    margin: 35px auto;
+  }
+
+  .example-viewport{
+    height: 250px;
+    width: 25%;
+    margin-left: 50px;
+    border: 1px solid saddlebrown;
+    display: flex;
+  }
+  .list{
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+  }
+  h2{
+    margin-left: 40px;
+  }
+  h1{
+    margin-left: 18px;
+  }
+  .container{
+    margin-bottom: 40px;
+    display: flex;
+  }
+ 
+  
+  .example-item {
+    height: 50px;
+  }
+  .example-viewport-select {
+    height: 200px;
+    /* width: calc(100% - 10px); */
+    width: 100%;
+  }
